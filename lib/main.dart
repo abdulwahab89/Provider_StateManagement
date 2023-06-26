@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:provider_sx/login_provider.dart';
-import 'package:provider_sx/login_screen.dart';
+import 'package:provider_sx/provider/login_provider.dart';
+import 'package:provider_sx/screens/login_screen.dart';
 import 'package:provider_sx/provider/CountProvider.dart';
 import 'package:provider_sx/provider/ExampleMultiProvider.dart';
 import 'package:provider_sx/provider/theme_changer.dart';
